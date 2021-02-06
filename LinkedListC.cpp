@@ -3,9 +3,11 @@
 
 #include <iostream>
 #include<stdlib.h>
+#include "node.h"
 
 int main()
 {
-    printf("Linked List Project. Trying my best to only use C");
+  
+
 }
 
